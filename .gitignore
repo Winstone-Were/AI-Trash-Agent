@@ -1,3 +1,4 @@
 dataset-resized
 garbage_classification
 waste_sorting_model
+waste_sorting_model.tflite
